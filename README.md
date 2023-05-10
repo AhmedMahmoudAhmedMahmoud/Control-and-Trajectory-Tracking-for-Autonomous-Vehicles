@@ -10,7 +10,7 @@
 ## PID
 
 
-![Uploading GIF.gif…]()
+![GIF](https://github.com/AhmedMahmoudAhmedMahmoud/Control-and-Trajectory-Tracking-for-Autonomous-Vehicles/assets/130584964/0ad387a3-4bbb-44df-b479-e10fe155b0f2)
 
 ![Graph1](https://github.com/AhmedMahmoudAhmedMahmoud/Control-and-Trajectory-Tracking-for-Autonomous-Vehicles/assets/130584964/285c2b47-65a0-4d07-853d-5a26d39f5607)
 ![Graph2](https://github.com/AhmedMahmoudAhmedMahmoud/Control-and-Trajectory-Tracking-for-Autonomous-Vehicles/assets/130584964/f90f2110-b572-481a-9df2-32cecfd9d495)
